@@ -39,7 +39,7 @@ let config2 = {
   data: {
     "code": "logincode",
     "client_id": 'Your api key',
-    "client_secret": "your secret key", // Corrected typo here
+    "client_secret": "your secret key", 
     "redirect_uri": 'http://127.0.0.1/',
    " grant_type": "authorization_code"
   }
