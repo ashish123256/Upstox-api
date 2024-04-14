@@ -11,7 +11,8 @@ Start the server
 ```bash
   npm start
 ```
-
+##install Dependencies
+npm install
 
 
 ## Authors
